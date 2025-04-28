@@ -9,7 +9,7 @@ const Description = () => {
       
       <div className="relative z-10">
         <h1 className="text-4xl md:text-5xl font-bold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-500">
-          AI CARTOONIFIER PRO
+           CARTOONIFIER PRO
         </h1>
         
         <div className="space-y-4 text-gray-300">
@@ -44,7 +44,7 @@ const Description = () => {
             <ol className="list-decimal list-inside space-y-2 text-sm text-gray-400">
               <li className="hover:text-cyan-300 transition-colors">Upload any photo (JPG/PNG)</li>
               <li className="hover:text-purple-300 transition-colors">Select your artistic style</li>
-              <li className="hover:text-pink-300 transition-colors">Let our AI work its magic (≈15s)</li>
+              <li className="hover:text-pink-300 transition-colors">Let our  work its magic (≈15s)</li>
               <li className="hover:text-green-300 transition-colors">Download HD quality result</li>
             </ol>
           </div>

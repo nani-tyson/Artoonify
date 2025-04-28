@@ -20,7 +20,7 @@ function App() {
             ARTOONIFY
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 font-light max-w-2xl mx-auto md:mx-0">
-            Turn reality into <span className="font-bold text-cyan-400">playful art</span> with AI magic.
+            Turn reality into <span className="font-bold text-cyan-400">playful art</span> with  magic.
           </p>
         </header>
 
